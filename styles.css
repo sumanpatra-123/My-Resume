@@ -36,3 +36,10 @@ a:hover {
 ol{
   font-family: fantasy;
 }
+
+th{
+  font-family: cursive;
+  font-size: 25px;
+  color: blue;
+}
+
